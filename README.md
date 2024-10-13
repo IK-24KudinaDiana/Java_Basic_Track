@@ -18,7 +18,7 @@ This project implements bitwise operations on two matrices of type `byte[][]` an
 1. Clone the repository:
    
     ```bash
-   git clone https://github.com/IK-24KudinaDiana/Java_Basic_Track.git
+   git clone https://github.com/IK-24KudinaDiana/Matrix_Operations.git
 
 2. Go to the project directory:
    ```bash
