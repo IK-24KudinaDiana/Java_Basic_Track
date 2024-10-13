@@ -25,6 +25,12 @@ This project implements bitwise operations on two matrices of type `byte[][]` an
    cd your-project
 
 ## Startup
+- Run the program from the command line:
+  
+   ```bash
+   javac MatrixOperations.java
+   java MatrixOperations
+
 
 
 ## Using
